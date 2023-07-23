@@ -304,8 +304,8 @@ input[type="radio"]{
     }
 
 
-    .features{
-        margin-top: 30px;
+    .header{
+        margin-bottom: 30px;
     }
     .features h2{
         font-size: 20px;
