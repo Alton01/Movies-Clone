@@ -315,6 +315,8 @@ input[type="radio"]{
 
     .features .row{
         padding: 20px 0;
+        margin-top: 20px;
+    
     }
 
     .faq h2{
