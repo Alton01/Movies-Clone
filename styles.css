@@ -276,15 +276,17 @@ input[type="radio"]{
     nav .btn-sign-up{
         padding: 4px 8px;
     }
-
+    
     .header-content{
         position: unset;
         transform: none;
-        padding-top: 150px;
+        padding-top: 100px;
     }
 
     .header-content h1{
         font-size: 25px;
+        margin-left: 20px;
+        margin-right: 20px;
     }
 
     .email-signup button{
@@ -301,8 +303,12 @@ input[type="radio"]{
         flex-basis: 100%;
     }
 
+
+    .features{
+        margin-top: 30px;
+    }
     .features h2{
-        font-size: 26px;
+        font-size: 20px;
     }
 
     .features p{
