@@ -16,7 +16,7 @@ body{
     background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url("images/Netflix8.jpg");
     background-size: cover;
     background-position: center;
-    padding: 10px, 80%;
+    padding: 10px, 80% 40px;
     position: relative;
     margin-bottom: 50px;
 
@@ -74,7 +74,10 @@ nav button{
     margin-bottom: 20px;
 
 }
-
+ 
+button:hover{
+    opacity: 0.5;
+}
 .email-signup{
     background: #fff;
     border-radius: 4px;
