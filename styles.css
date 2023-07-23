@@ -18,6 +18,7 @@ body{
     background-position: center;
     padding: 10px, 80%;
     position: relative;
+    margin-bottom: 50px;
 
 }
 
@@ -57,7 +58,7 @@ nav button{
     transform: translate(-50%, -50%);
     text-align: center;
     margin-top: 100px;
-    margin-bottom: 40px;
+
 }
 .header-content h1{
     font-size: 50px;
