@@ -16,10 +16,8 @@ body{
     background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url("images/Netflix8.jpg");
     background-size: cover;
     background-position: center;
-    padding: 10px, 80% 40px;
+    padding: 10px, 80%;
     position: relative;
-    margin-bottom: 50px;
-
 }
 
 nav{
@@ -62,10 +60,10 @@ nav button{
 
 }
 .header-content h1{
-    font-size: 50px;
-    line-height: 60px;
+    font-size: 40px;
+    line-height: 50px;
     font-weight: 600;
-    max-width: 1200px;
+    max-width: 1400px;
     margin-bottom: 20px;
 }
 
@@ -83,9 +81,9 @@ button:hover{
     border-radius: 4px;
     display: flex;
     align-items: center;
-    margin-top: 30px;
+    margin-top: 10px;
     overflow: hidden;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 .email-signup input{
@@ -288,6 +286,7 @@ input[type="radio"]{
     .header-content{
         position: unset;
         transform: none;
+        margin-top: 100px;
         padding-top: 100px;
     }
 
